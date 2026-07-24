@@ -9,7 +9,7 @@ supported.
 
 Do not open a public issue for a suspected vulnerability.
 
-Email support@cavuno.com with:
+Email hi@cavuno.com with:
 
 - the affected MCP workflow;
 - a clear description of the impact;

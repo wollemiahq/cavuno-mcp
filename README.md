@@ -3,9 +3,9 @@
 The public discovery and support repository for Cavuno's hosted Model Context
 Protocol server.
 
-Cavuno MCP lets an AI agent run a job board through the same public REST API
-available to an operator. Its tools are generated from Cavuno's public OpenAPI
-contract, so private service routes are not available through MCP.
+Cavuno MCP lets an AI agent run a job board through the same REST API available
+to an operator. Its tools are generated from Cavuno's OpenAPI contract, keeping
+the MCP interface aligned with the API documentation.
 
 - MCP endpoint: `https://mcp.cavuno.com/mcp`
 - Cavuno: <https://cavuno.com>
@@ -29,13 +29,8 @@ contract, so private service routes are not available through MCP.
 Clients that support OAuth will open Cavuno's authorization flow. Automated
 clients may instead send a Cavuno API key as a bearer token.
 
-## What is public
-
-This repository contains connection documentation, examples, registry
-metadata, and an issue tracker. The hosted MCP server implementation,
-deployment configuration, credentials, private API contracts, and Cavuno
-service source are not published here. MCP users do not need that
-implementation to connect to or use the hosted server.
+Use this repository for connection instructions, registry metadata, client
+compatibility information, and issue reporting.
 
 The published registry metadata and examples are available under the MIT
 License. Cavuno names and logos remain subject to
