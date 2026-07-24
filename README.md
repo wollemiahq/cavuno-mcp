@@ -8,9 +8,11 @@ available to an operator. Its tools are generated from Cavuno's public OpenAPI
 contract, so private service routes are not available through MCP.
 
 - MCP endpoint: `https://mcp.cavuno.com/mcp`
-- Documentation: https://cavuno.com/docs/mcp
+- Cavuno: <https://cavuno.com>
+- Documentation: <https://cavuno.com/docs/mcp>
 - Registry metadata: [`server.json`](./server.json)
-- REST API contract: https://github.com/wollemiahq/cavuno-api
+- REST API contract: <https://github.com/wollemiahq/cavuno-api>
+- Issues: <https://github.com/wollemiahq/cavuno-mcp/issues>
 
 ## Connect
 
