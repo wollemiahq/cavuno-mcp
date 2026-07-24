@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.cavuno/job-board-operator",
+  "title": "Cavuno Job Board Operator",
+  "description": "Run a Cavuno job board: manage jobs, companies, Backfill, content, analytics, and more.",
+  "version": "0.3.0",
+  "websiteUrl": "https://cavuno.com/docs/mcp",
+  "icons": [
+    {
+      "src": "https://cavuno.com/images/favicon/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.cavuno.com/mcp"
+    }
+  ]
+}
