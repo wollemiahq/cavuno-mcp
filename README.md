@@ -1,11 +1,10 @@
 # Cavuno MCP
 
-The public discovery and support repository for Cavuno's hosted Model Context
-Protocol server.
+Connect Claude, Cursor, Codex, and other MCP clients to your Cavuno job board.
 
-Cavuno MCP lets an AI agent run a job board through the same REST API available
-to an operator. Its tools are generated from Cavuno's OpenAPI contract, keeping
-the MCP interface aligned with the API documentation.
+This repository contains connection instructions, registry metadata, client
+compatibility information, and issue reporting for Cavuno’s hosted Model
+Context Protocol server.
 
 - MCP endpoint: `https://mcp.cavuno.com/mcp`
 - Cavuno: <https://cavuno.com>
@@ -28,9 +27,6 @@ the MCP interface aligned with the API documentation.
 
 Clients that support OAuth will open Cavuno's authorization flow. Automated
 clients may instead send a Cavuno API key as a bearer token.
-
-Use this repository for connection instructions, registry metadata, client
-compatibility information, and issue reporting.
 
 The published registry metadata and examples are available under the MIT
 License. Cavuno names and logos remain subject to
