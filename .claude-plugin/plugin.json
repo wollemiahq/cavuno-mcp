@@ -1,0 +1,20 @@
+{
+  "name": "cavuno",
+  "version": "0.3.1",
+  "description": "Cavuno job board integration. Connects Claude to Cavuno's hosted MCP (https://mcp.cavuno.com/mcp) to source jobs, manage companies, publish blog content, and operate your board. Authorize with Cavuno OAuth on first connect.",
+  "author": {
+    "name": "Cavuno",
+    "url": "https://github.com/wollemiahq"
+  },
+  "homepage": "https://cavuno.com/mcp",
+  "repository": "https://github.com/wollemiahq/cavuno-mcp",
+  "license": "MIT",
+  "keywords": [
+    "cavuno",
+    "job-board",
+    "jobs",
+    "mcp",
+    "recruiting",
+    "content"
+  ]
+}

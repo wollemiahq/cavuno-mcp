@@ -1,0 +1,7 @@
+{
+  "name": "cavuno",
+  "description": "Connect Claude, Cursor, Codex, and other MCP clients to manage your Cavuno job board.",
+  "url": "https://mcp.cavuno.com/mcp",
+  "homepage": "https://cavuno.com/mcp",
+  "repository": "https://github.com/wollemiahq/cavuno-mcp"
+}
