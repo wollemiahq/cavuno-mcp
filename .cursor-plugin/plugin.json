@@ -1,0 +1,23 @@
+{
+  "name": "cavuno",
+  "version": "0.3.1",
+  "description": "Connect Cursor to your Cavuno job board via hosted MCP. Source jobs, manage companies, publish content, and operate the board with OAuth.",
+  "author": {
+    "name": "Cavuno",
+    "email": "support@cavuno.com"
+  },
+  "homepage": "https://cavuno.com/mcp",
+  "repository": "https://github.com/wollemiahq/cavuno-mcp",
+  "license": "MIT",
+  "keywords": [
+    "cavuno",
+    "job-board",
+    "jobs",
+    "mcp",
+    "recruiting",
+    "content",
+    "blog"
+  ],
+  "logo": "assets/cavuno.svg",
+  "skills": "skills"
+}

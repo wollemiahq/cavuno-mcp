@@ -1,0 +1,19 @@
+{
+  "name": "cavuno",
+  "version": "0.3.1",
+  "description": "Cavuno plugin for Grok Build. Hosted MCP plus skills to source jobs, manage companies, and publish job board content.",
+  "author": {
+    "name": "Cavuno",
+    "url": "https://cavuno.com"
+  },
+  "homepage": "https://cavuno.com/mcp",
+  "repository": "https://github.com/wollemiahq/cavuno-mcp",
+  "license": "MIT",
+  "keywords": [
+    "cavuno",
+    "job-board",
+    "jobs",
+    "mcp",
+    "recruiting"
+  ]
+}
