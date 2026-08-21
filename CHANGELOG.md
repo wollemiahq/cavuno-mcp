@@ -2,7 +2,6 @@
 
 ## Unreleased
 
-- Added multi-store plugin packaging for Cursor, Claude, Codex/ChatGPT, Grok Build, and VS Code / GitHub Copilot, plus discovery-directory submit helpers.
 - Updated the registry title and description to match Cavuno’s public
   documentation.
 - Corrected native OAuth discovery and token audiences for the hosted `/mcp`
