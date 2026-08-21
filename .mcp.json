@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "cavuno": {
-      "type": "http",
-      "url": "https://mcp.cavuno.com/mcp",
-      "note": "Official Cavuno MCP. Uses OAuth — on first connection the client opens Cavuno authorization. For CI, pass a Cavuno API key as a Bearer token instead."
-    }
-  }
-}
