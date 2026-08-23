@@ -9,9 +9,7 @@
     {
       "src": "https://cavuno.com/images/favicon/android-chrome-512x512.png",
       "mimeType": "image/png",
-      "sizes": [
-        "512x512"
-      ]
+      "sizes": ["512x512"]
     }
   ],
   "remotes": [
