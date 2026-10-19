@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- Added plugin packaging for Cursor, Claude, Codex/ChatGPT, Grok Build, and
+  VS Code / GitHub Copilot, with the `manage-job-board` and `publish-blog`
+  skills (plugin version 0.4.0).
+- The Claude plugin connects to the Claude connector endpoint,
+  `https://mcp.cavuno.com/mcp/connector`; the other plugins use
+  `https://mcp.cavuno.com/mcp`.
+- The skills work with either endpoint's tools.
 - Updated the registry title and description to match Cavuno’s public
   documentation.
 - Corrected native OAuth discovery and token audiences for the hosted `/mcp`

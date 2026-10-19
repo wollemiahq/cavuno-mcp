@@ -1,0 +1,17 @@
+{
+  "name": "cavuno",
+  "owner": {
+    "name": "Cavuno"
+  },
+  "metadata": {
+    "description": "Cavuno official agent plugins for GitHub Copilot and VS Code"
+  },
+  "plugins": [
+    {
+      "name": "cavuno",
+      "source": "./",
+      "description": "Hosted Cavuno MCP for job board operations",
+      "version": "0.4.0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cavuno": {
+      "type": "http",
+      "url": "https://mcp.cavuno.com/mcp/connector"
+    }
+  }
+}
