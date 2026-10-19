@@ -10,7 +10,7 @@
   "homepage": "https://cavuno.com/mcp",
   "keywords": ["cavuno", "job board", "jobs", "recruiting", "mcp"],
   "domains": ["cavuno.com", "mcp.cavuno.com"],
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "Cavuno"
   },

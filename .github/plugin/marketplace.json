@@ -11,7 +11,7 @@
       "name": "cavuno",
       "source": "./",
       "description": "Hosted Cavuno MCP for job board operations",
-      "version": "0.4.0"
+      "version": "0.4.1"
     }
   ]
 }
