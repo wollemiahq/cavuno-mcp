@@ -1,6 +1,6 @@
 {
   "name": "cavuno",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Cavuno workflows for job board operations: source and manage jobs, companies, and blog content through the hosted Cavuno MCP.",
   "author": {
     "name": "Cavuno",

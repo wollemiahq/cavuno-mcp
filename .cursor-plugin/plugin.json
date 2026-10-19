@@ -1,6 +1,6 @@
 {
   "name": "cavuno",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Connect Cursor to your Cavuno job board via hosted MCP. Source jobs, manage companies, publish content, and operate the board with OAuth.",
   "author": {
     "name": "Cavuno",

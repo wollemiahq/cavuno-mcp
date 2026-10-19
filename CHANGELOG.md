@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Claude plugin 0.4.1: adds a square `.claude-plugin/icon.png` and a
+  `privacyPolicyUrl` (https://cavuno.com/privacy-policy).
 - Added plugin packaging for Cursor, Claude, Codex/ChatGPT, Grok Build, and
   VS Code / GitHub Copilot, with the `manage-job-board` and `publish-blog`
   skills (plugin version 0.4.0).
