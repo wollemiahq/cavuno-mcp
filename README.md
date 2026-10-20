@@ -6,6 +6,10 @@ This repository contains connection instructions, registry metadata, client
 compatibility information, and issue reporting for Cavuno’s hosted Model
 Context Protocol server.
 
+**Using Claude on the web or Claude Desktop?** Add Cavuno from Claude's
+connector directory: <https://claude.ai/directory/cavuno>.
+
+- Claude connector directory listing: <https://claude.ai/directory/cavuno>
 - MCP endpoint: `https://mcp.cavuno.com/mcp`
 - Claude connector endpoint: `https://mcp.cavuno.com/mcp/connector`
 - Cavuno: <https://cavuno.com>
